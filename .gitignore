@@ -1,0 +1,35 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.env
+.venv/
+env/
+venv/
+media/
+staticfiles/
+
+# Qt / C++
+build/
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+*.user
+*.user.*
+*.qrc.depends
+Makefile
+*.pro.user
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
