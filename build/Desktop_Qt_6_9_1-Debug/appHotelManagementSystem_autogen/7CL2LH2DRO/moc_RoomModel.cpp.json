@@ -1,0 +1,119 @@
+{
+    "classes": [
+        {
+            "className": "RoomModel",
+            "lineNumber": 14,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "fetchRooms",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "text",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "setSearchText",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "roomNumber",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 4,
+                    "isConst": true,
+                    "name": "roomIdForNumber",
+                    "returnType": "int"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "roomId",
+                            "type": "int"
+                        },
+                        {
+                            "name": "newStatus",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "updateRoomStatus",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "roomNumbers",
+                    "notify": "roomNumbersChanged",
+                    "read": "roomNumbers",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QStringList",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "vacantRoomNumbers",
+                    "notify": "roomNumbersChanged",
+                    "read": "vacantRoomNumbers",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QStringList",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "RoomModel",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "roomNumbersChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "reply",
+                            "type": "QNetworkReply*"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "onReplyFinished",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "RoomModel.h",
+    "outputRevision": 69
+}

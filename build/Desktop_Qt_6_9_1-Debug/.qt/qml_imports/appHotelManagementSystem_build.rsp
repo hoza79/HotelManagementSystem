@@ -1,0 +1,16 @@
+-rootPath
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem
+-cmake-output
+-output-file
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/Desktop_Qt_6_9_1-Debug/.qt/qml_imports/appHotelManagementSystem_build.cmake
+-importPath
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/Desktop_Qt_6_9_1-Debug/HotelManagementSystem
+-importPath
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/Desktop_Qt_6_9_1-Debug
+-importPath
+/home/hosam/Qt/6.9.1/gcc_64/qml
+-qrcFiles
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/qmake_HotelManagementSystem.qrc
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appHotelManagementSystem_raw_qml_0.qrc
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appHotelManagementSystem_raw_qml_0_extra_qmldirs.qrc
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/resources.qrc

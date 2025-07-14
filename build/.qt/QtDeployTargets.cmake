@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appHotelManagementSystem_FILE /home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/appHotelManagementSystem)
+set(__QT_DEPLOY_TARGET_appHotelManagementSystem_TYPE EXECUTABLE)

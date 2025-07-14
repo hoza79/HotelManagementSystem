@@ -1,0 +1,548 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 411,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 451,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 402,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 310,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 282,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 313,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 279,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 388,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 729,
+                        "errorMessage": "",
+                        "functionName": "onEntered",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 636,
+                        "errorMessage": "",
+                        "functionName": "onExited",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 1682,
+                        "errorMessage": "Cannot access value for name reservationModel",
+                        "functionName": "onTextChanged",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 276,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 1055,
+                        "errorMessage": "Cannot access value for name reservationModel",
+                        "functionName": "onClicked",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 750,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 292,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 376,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 282,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 1232,
+                        "errorMessage": "method newReservationRequested cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 721,
+                        "errorMessage": "",
+                        "functionName": "onEntered",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 490,
+                        "errorMessage": "",
+                        "functionName": "onExited",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 353,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 230,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 278,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 261,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 332,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 276,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 251,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 826,
+                        "errorMessage": "Cannot access value for name reservationModel",
+                        "functionName": "model",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 358,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 1066,
+                        "errorMessage": "Cannot access value for name reservationStatus",
+                        "functionName": "color",
+                        "line": 239
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 244
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 43,
+                        "durationMicroseconds": 880,
+                        "errorMessage": "Cannot access value for name guestName",
+                        "functionName": "text",
+                        "line": 248
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 888,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 249
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 43,
+                        "durationMicroseconds": 1137,
+                        "errorMessage": "Cannot access value for name checkIn",
+                        "functionName": "text",
+                        "line": 255
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 915,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 256
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 43,
+                        "durationMicroseconds": 814,
+                        "errorMessage": "Cannot access value for name checkOut",
+                        "functionName": "text",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 877,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 43,
+                        "durationMicroseconds": 648,
+                        "errorMessage": "Cannot access value for name room",
+                        "functionName": "text",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 904,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 2643,
+                        "errorMessage": "Cannot access value for name reservationStatus",
+                        "functionName": "color",
+                        "line": 280
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 47,
+                        "durationMicroseconds": 1261,
+                        "errorMessage": "Cannot access value for name reservationStatus",
+                        "functionName": "text",
+                        "line": 289
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 48,
+                        "durationMicroseconds": 918,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 290
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 59,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 288
+                    }
+                ],
+                "filePath": "/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/reservationScreen/ReservationScreen.qml"
+            }
+        ],
+        "moduleId": "HotelManagementSystem(appHotelManagementSystem)"
+    }
+]

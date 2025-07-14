@@ -1,0 +1,17 @@
+module HotelManagementSystem
+typeinfo appHotelManagementSystem.qmltypes
+prefer :/qt/qml/HotelManagementSystem/
+Main 1.0 Main.qml
+WelcomeScreen 1.0 ui/welcomeScreen/WelcomeScreen.qml
+Button 1.0 ui/commonComponents/Button.qml
+SideBar 1.0 ui/sideBar/SideBar.qml
+GuestScreen 1.0 ui/guestScreen/GuestScreen.qml
+CheckInAndOut 1.0 ui/checkInAndOutScreen/CheckInAndOut.qml
+RoomStatus 1.0 ui/roomStatus/RoomStatus.qml
+ReservationScreen 1.0 ui/reservationScreen/ReservationScreen.qml
+SharedScreen 1.0 ui/commonComponents/SharedScreen.qml
+NewReservation 1.0 ui/reservationScreen/NewReservation.qml
+NewGuest 1.0 ui/guestScreen/NewGuest.qml
+RoomLayout 1.0 ui/commonComponents/RoomLayout.qml
+NewCheckInOut 1.0 ui/checkInAndOutScreen/NewCheckInOut.qml
+

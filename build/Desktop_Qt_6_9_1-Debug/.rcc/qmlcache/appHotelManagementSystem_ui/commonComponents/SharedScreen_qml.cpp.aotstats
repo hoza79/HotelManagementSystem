@@ -1,0 +1,92 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 266,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 19,
+                        "durationMicroseconds": 1124,
+                        "errorMessage": "Cannot load property newReservationRequested from (component in /home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/commonComponents/SharedScreen.qml)::item with type QObject.",
+                        "functionName": "onLoaded",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 406,
+                        "errorMessage": "",
+                        "functionName": "onHomeClicked",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 359,
+                        "errorMessage": "",
+                        "functionName": "onReservationsClicked",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 351,
+                        "errorMessage": "",
+                        "functionName": "onGuestsClicked",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 350,
+                        "errorMessage": "",
+                        "functionName": "onCheckInAndOutClicked",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 340,
+                        "errorMessage": "",
+                        "functionName": "onRoomStatusClicked",
+                        "line": 73
+                    }
+                ],
+                "filePath": "/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/commonComponents/SharedScreen.qml"
+            }
+        ],
+        "moduleId": "HotelManagementSystem(appHotelManagementSystem)"
+    }
+]

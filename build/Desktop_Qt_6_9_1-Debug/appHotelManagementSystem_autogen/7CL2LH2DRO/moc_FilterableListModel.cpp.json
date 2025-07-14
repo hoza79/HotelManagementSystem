@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "FilterableListModel",
+            "lineNumber": 17,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "text",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "setSearchText",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "FilterableListModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "FilterableListModel.h",
+    "outputRevision": 69
+}

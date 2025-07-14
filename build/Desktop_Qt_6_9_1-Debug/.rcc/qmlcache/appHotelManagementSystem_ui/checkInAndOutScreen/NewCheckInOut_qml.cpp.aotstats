@@ -1,0 +1,284 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 5,
+                        "durationMicroseconds": 6749,
+                        "errorMessage": "Cannot access value for name reservationModel",
+                        "functionName": "updateCheckedInReservations",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 5,
+                        "durationMicroseconds": 6059,
+                        "errorMessage": "Cannot access value for name reservationModel",
+                        "functionName": "updatePendingReservations",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 297,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 1330,
+                        "errorMessage": "Cannot access value for name reservationModel",
+                        "functionName": "onCompleted",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 17,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "Cannot access value for name checkInOutModel",
+                        "functionName": "target",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 9,
+                        "durationMicroseconds": 662,
+                        "errorMessage": "Cannot access value for name reservationModel",
+                        "functionName": "onRefreshReservationsRequested",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 471,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 350,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 237,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 415,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 292,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 435,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"model\".",
+                        "functionName": "model",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 31,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "text",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 461,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"model\".",
+                        "functionName": "model",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 43,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"currentTextChanged\".",
+                        "functionName": "onCurrentTextChanged",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 31,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "text",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: actionCombo",
+                        "functionName": "visible",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 424,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"model\".",
+                        "functionName": "model",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 31,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "text",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 361,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 200
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "Cannot access value for name busy",
+                        "functionName": "enabled",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 5458,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: reservationCombo",
+                        "functionName": "onClicked",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 43,
+                        "durationMicroseconds": 359,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 17,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "Cannot access value for name checkInOutModel",
+                        "functionName": "target",
+                        "line": 250
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 9,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "Cannot find name busy",
+                        "functionName": "onCheckInOutSaved",
+                        "line": 251
+                    }
+                ],
+                "filePath": "/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/checkInAndOutScreen/NewCheckInOut.qml"
+            }
+        ],
+        "moduleId": "HotelManagementSystem(appHotelManagementSystem)"
+    }
+]

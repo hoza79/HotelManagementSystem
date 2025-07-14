@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/HotelManagementSystem/">
+    <file alias="ui/welcomeScreen/qmldir">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/HotelManagementSystem/ui/welcomeScreen/qmldir</file>
+    <file alias="ui/commonComponents/qmldir">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/HotelManagementSystem/ui/commonComponents/qmldir</file>
+    <file alias="ui/sideBar/qmldir">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/HotelManagementSystem/ui/sideBar/qmldir</file>
+    <file alias="ui/guestScreen/qmldir">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/HotelManagementSystem/ui/guestScreen/qmldir</file>
+    <file alias="ui/checkInAndOutScreen/qmldir">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/HotelManagementSystem/ui/checkInAndOutScreen/qmldir</file>
+    <file alias="ui/roomStatus/qmldir">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/HotelManagementSystem/ui/roomStatus/qmldir</file>
+    <file alias="ui/reservationScreen/qmldir">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/HotelManagementSystem/ui/reservationScreen/qmldir</file>
+  </qresource>
+</RCC>
+

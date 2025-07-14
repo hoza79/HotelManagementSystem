@@ -1,0 +1,132 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 293,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 341,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 494,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 9118,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 232,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 363,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 747,
+                        "errorMessage": "",
+                        "functionName": "onEntered",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 610,
+                        "errorMessage": "",
+                        "functionName": "onExited",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 230,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 51
+                    }
+                ],
+                "filePath": "/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/commonComponents/Button.qml"
+            }
+        ],
+        "moduleId": "HotelManagementSystem(appHotelManagementSystem)"
+    }
+]

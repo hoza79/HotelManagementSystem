@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a1d65dfe7c9a48f25d56.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HotelManagementSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-34b00791c8b36c8d2631.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-7d2e56e9f5cea17d70a0.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-45b4c3277137afd8a3d4.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-d0fc4300371855dee1ee.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d93b2252974c4b91f150.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHotelManagementSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHotelManagementSystem-Debug-59ef57a215937d8fd325.json",
+					"name" : "appHotelManagementSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHotelManagementSystem_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHotelManagementSystem_autogen-Debug-37b276bf064fa048dc71.json",
+					"name" : "appHotelManagementSystem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHotelManagementSystem_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHotelManagementSystem_autogen_timestamp_deps-Debug-24684d637a32982886c8.json",
+					"name" : "appHotelManagementSystem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHotelManagementSystem_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHotelManagementSystem_copy_qml-Debug-712cda5ebf12d18d5960.json",
+					"name" : "appHotelManagementSystem_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHotelManagementSystem_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHotelManagementSystem_copy_res-Debug-e3cbbb99065d66b24cfa.json",
+					"name" : "appHotelManagementSystem_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHotelManagementSystem_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHotelManagementSystem_qmlimportscan-Debug-658fc363b01355b8634d.json",
+					"name" : "appHotelManagementSystem_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHotelManagementSystem_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHotelManagementSystem_qmllint-Debug-3e4b12142c044cef81be.json",
+					"name" : "appHotelManagementSystem_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHotelManagementSystem_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHotelManagementSystem_qmllint_json-Debug-0592c2c9626f8d85e129.json",
+					"name" : "appHotelManagementSystem_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHotelManagementSystem_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHotelManagementSystem_qmllint_module-Debug-1bc8ca6c5d3e38110596.json",
+					"name" : "appHotelManagementSystem_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHotelManagementSystem_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHotelManagementSystem_qmltyperegistration-Debug-b1d398667192a2ffe7ee.json",
+					"name" : "appHotelManagementSystem_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appHotelManagementSystem_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appHotelManagementSystem_aotstats_target-Debug-ec3daf51bd7596d1982e.json",
+					"name" : "module_appHotelManagementSystem_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/Desktop_Qt_6_9_1-Debug",
+		"source" : "/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

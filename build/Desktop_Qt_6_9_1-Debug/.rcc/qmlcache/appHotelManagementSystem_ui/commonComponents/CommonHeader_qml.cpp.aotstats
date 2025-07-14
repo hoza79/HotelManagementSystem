@@ -1,0 +1,84 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 34,
+                        "durationMicroseconds": 340,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "headerElements",
+                        "line": 5
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 7
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 14,
+                        "durationMicroseconds": 283,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 253,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 271,
+                        "errorMessage": "Cannot load property headerElements from (component in /home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/commonComponents/CommonHeader.qml)::parent with type QQuickItem.",
+                        "functionName": "model",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 19,
+                        "durationMicroseconds": 788,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "text",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 25
+                    }
+                ],
+                "filePath": "/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/commonComponents/CommonHeader.qml"
+            }
+        ],
+        "moduleId": "HotelManagementSystem(appHotelManagementSystem)"
+    }
+]

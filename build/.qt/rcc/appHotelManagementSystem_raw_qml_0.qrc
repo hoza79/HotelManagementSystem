@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qt/qml/HotelManagementSystem/">
+    <file alias="Main.qml">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/Main.qml</file>
+    <file alias="ui/welcomeScreen/WelcomeScreen.qml">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/welcomeScreen/WelcomeScreen.qml</file>
+    <file alias="ui/commonComponents/Button.qml">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/commonComponents/Button.qml</file>
+    <file alias="ui/sideBar/SideBar.qml">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/sideBar/SideBar.qml</file>
+    <file alias="ui/guestScreen/GuestScreen.qml">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/guestScreen/GuestScreen.qml</file>
+    <file alias="ui/checkInAndOutScreen/CheckInAndOut.qml">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/checkInAndOutScreen/CheckInAndOut.qml</file>
+    <file alias="ui/roomStatus/RoomStatus.qml">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/roomStatus/RoomStatus.qml</file>
+    <file alias="ui/reservationScreen/ReservationScreen.qml">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/reservationScreen/ReservationScreen.qml</file>
+  </qresource>
+</RCC>
+

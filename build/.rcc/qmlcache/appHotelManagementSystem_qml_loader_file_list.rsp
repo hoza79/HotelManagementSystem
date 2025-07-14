@@ -1,0 +1,16 @@
+--resource
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/.qt/rcc/qmake_HotelManagementSystem.qrc
+--resource
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/.qt/rcc/appHotelManagementSystem_raw_qml_0.qrc
+--resource
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/.qt/rcc/appHotelManagementSystem_raw_qml_0_extra_qmldirs.qrc
+--resource
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/.qt/rcc/resources.qrc
+/qt/qml/HotelManagementSystem/Main.qml
+/qt/qml/HotelManagementSystem/ui/welcomeScreen/WelcomeScreen.qml
+/qt/qml/HotelManagementSystem/ui/commonComponents/Button.qml
+/qt/qml/HotelManagementSystem/ui/sideBar/SideBar.qml
+/qt/qml/HotelManagementSystem/ui/guestScreen/GuestScreen.qml
+/qt/qml/HotelManagementSystem/ui/checkInAndOutScreen/CheckInAndOut.qml
+/qt/qml/HotelManagementSystem/ui/roomStatus/RoomStatus.qml
+/qt/qml/HotelManagementSystem/ui/reservationScreen/ReservationScreen.qml

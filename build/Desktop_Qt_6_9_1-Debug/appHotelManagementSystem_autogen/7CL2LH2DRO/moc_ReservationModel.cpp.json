@@ -1,0 +1,150 @@
+{
+    "classes": [
+        {
+            "className": "ReservationModel",
+            "lineNumber": 21,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "fetchReservations",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "guestName",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "guestPhone",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "checkIn",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "checkOut",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "roomType",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "status",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "addReservation",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 6,
+                    "isConst": true,
+                    "name": "reservationIdAt",
+                    "returnType": "int"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "reservationId",
+                            "type": "int"
+                        },
+                        {
+                            "name": "newStatus",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 7,
+                    "name": "updateReservationStatus",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "row",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 8,
+                    "isConst": true,
+                    "name": "get",
+                    "returnType": "QVariantMap"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "fullNames",
+                    "notify": "fullNamesChanged",
+                    "read": "fullNames",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QStringList",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ReservationModel",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "fullNamesChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "refreshCheckInOutsRequested",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "reservationSaved",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "reply",
+                            "type": "QNetworkReply*"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "onReplyFinished",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "FilterableListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ReservationModel.h",
+    "outputRevision": 69
+}

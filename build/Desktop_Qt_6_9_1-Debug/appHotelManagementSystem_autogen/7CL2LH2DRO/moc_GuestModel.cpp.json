@@ -1,0 +1,103 @@
+{
+    "classes": [
+        {
+            "className": "GuestModel",
+            "lineNumber": 17,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "fetchGuests",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "fullName",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "phoneNumber",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "roomId",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "addGuest",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 5,
+                    "isConst": true,
+                    "name": "guestIdAt",
+                    "returnType": "int"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "fullNames",
+                    "notify": "fullNamesChanged",
+                    "read": "fullNames",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QStringList",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "GuestModel",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "fullNamesChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "modelReset",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "reply",
+                            "type": "QNetworkReply*"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "onReplyFinished",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "FilterableListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "GuestModel.h",
+    "outputRevision": 69
+}

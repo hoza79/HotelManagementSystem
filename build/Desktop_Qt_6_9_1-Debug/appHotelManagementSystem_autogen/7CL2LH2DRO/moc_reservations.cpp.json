@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "Reservations",
+            "lineNumber": 6,
+            "object": true,
+            "qualifiedClassName": "Reservations",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "reservations.h",
+    "outputRevision": 69
+}

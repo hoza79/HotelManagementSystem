@@ -1,0 +1,86 @@
+{
+    "classes": [
+        {
+            "className": "CheckInOutModel",
+            "lineNumber": 16,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 5,
+                    "name": "fetchCheckInOuts",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "reservationId",
+                            "type": "int"
+                        },
+                        {
+                            "name": "action",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "roomId",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 6,
+                    "name": "addCheckInOut",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "CheckInOutModel",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "refreshReservationsRequested",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "refreshGuestsRequested",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "refreshRoomsRequested",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "checkInOutSaved",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "reply",
+                            "type": "QNetworkReply*"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "onReplyFinished",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "FilterableListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "CheckInOutModel.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,14 @@
+-I
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build
+-I
+/usr/lib/x86_64-linux-gnu/qt6/qml
+--resource
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/.qt/rcc/qmake_HotelManagementSystem.qrc
+--resource
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/.qt/rcc/appHotelManagementSystem_raw_qml_0.qrc
+--resource
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/.qt/rcc/appHotelManagementSystem_raw_qml_0_extra_qmldirs.qrc
+--resource
+/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/build/.qt/rcc/resources.qrc
+--module
+HotelManagementSystem

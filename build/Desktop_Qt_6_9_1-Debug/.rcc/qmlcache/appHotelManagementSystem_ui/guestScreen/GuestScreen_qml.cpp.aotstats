@@ -1,0 +1,500 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 303,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 1939,
+                        "errorMessage": "Cannot access value for name guestModel",
+                        "functionName": "onCompleted",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 17,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "Cannot access value for name guestModel",
+                        "functionName": "target",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 9,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "onModelReset",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 394,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 579,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 298,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 283,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 303,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 386,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 690,
+                        "errorMessage": "",
+                        "functionName": "onEntered",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 498,
+                        "errorMessage": "",
+                        "functionName": "onExited",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 1287,
+                        "errorMessage": "Cannot access value for name guestModel",
+                        "functionName": "onTextChanged",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 250,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 230,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 310,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 837,
+                        "errorMessage": "Cannot access value for name guestModel",
+                        "functionName": "onClicked",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 743,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 336,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 560,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 223,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 1066,
+                        "errorMessage": "method newGuestRequested cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 879,
+                        "errorMessage": "",
+                        "functionName": "onEntered",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 601,
+                        "errorMessage": "",
+                        "functionName": "onExited",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 386,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 279,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 274,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 237,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 327,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 286,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 335,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 225
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 302,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 514,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 291,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 623,
+                        "errorMessage": "Cannot access value for name guestModel",
+                        "functionName": "model",
+                        "line": 232
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "color",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 43,
+                        "durationMicroseconds": 882,
+                        "errorMessage": "Cannot access value for name guestName",
+                        "functionName": "text",
+                        "line": 244
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 906,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 43,
+                        "durationMicroseconds": 1010,
+                        "errorMessage": "Cannot access value for name phoneNumber",
+                        "functionName": "text",
+                        "line": 251
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 928,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 43,
+                        "durationMicroseconds": 2090,
+                        "errorMessage": "Cannot access value for name roomNumber",
+                        "functionName": "text",
+                        "line": 258
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 1405,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 259
+                    }
+                ],
+                "filePath": "/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/guestScreen/GuestScreen.qml"
+            }
+        ],
+        "moduleId": "HotelManagementSystem(appHotelManagementSystem)"
+    }
+]

@@ -1,0 +1,228 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 417,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 7
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 658,
+                        "errorMessage": "Cannot access value for name roomModel",
+                        "functionName": "onCompleted",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 493,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 349,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 352,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 278,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"model\".",
+                        "functionName": "model",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 27,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "text",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"model\".",
+                        "functionName": "model",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 27,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "text",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 311,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 272,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 270,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 234,
+                        "errorMessage": "",
+                        "functionName": "contentHeight",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 292,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 276,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 596,
+                        "errorMessage": "Cannot access value for name roomModel",
+                        "functionName": "model",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 41,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "roomNumber",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "status",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 965,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "onClicked",
+                        "line": 123
+                    }
+                ],
+                "filePath": "/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/roomStatus/RoomStatus.qml"
+            }
+        ],
+        "moduleId": "HotelManagementSystem(appHotelManagementSystem)"
+    }
+]

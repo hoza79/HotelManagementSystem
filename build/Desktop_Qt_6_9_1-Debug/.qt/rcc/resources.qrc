@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="ui/assets/backgroundImage.png">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/assets/backgroundImage.png</file>
+    <file alias="ui/assets/reservations.png">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/assets/reservations.png</file>
+    <file alias="ui/assets/guests.png">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/assets/guests.png</file>
+    <file alias="ui/assets/check-in-out.png">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/assets/check-in-out.png</file>
+    <file alias="ui/assets/roomStatus.png">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/assets/roomStatus.png</file>
+    <file alias="ui/assets/home.png">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/assets/home.png</file>
+    <file alias="ui/assets/searchIcon.png">/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/assets/searchIcon.png</file>
+  </qresource>
+</RCC>
+

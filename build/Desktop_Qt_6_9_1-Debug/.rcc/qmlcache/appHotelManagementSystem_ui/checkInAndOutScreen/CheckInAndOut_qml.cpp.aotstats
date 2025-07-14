@@ -1,0 +1,508 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 396,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 846,
+                        "errorMessage": "Cannot access value for name checkInOutModel",
+                        "functionName": "onCompleted",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 491,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 445,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 310,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 303,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 276,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 278,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 377,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 700,
+                        "errorMessage": "",
+                        "functionName": "onEntered",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 544,
+                        "errorMessage": "",
+                        "functionName": "onExited",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 1630,
+                        "errorMessage": "Cannot access value for name checkInOutModel",
+                        "functionName": "onTextChanged",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 260,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 317,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 278,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 1141,
+                        "errorMessage": "Cannot access value for name checkInOutModel",
+                        "functionName": "onClicked",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 261,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 777,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 313,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 292,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 231,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 1214,
+                        "errorMessage": "method newCheckInOutRequested cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 767,
+                        "errorMessage": "",
+                        "functionName": "onEntered",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 504,
+                        "errorMessage": "",
+                        "functionName": "onExited",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 341,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 375,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 283,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 281,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 302,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 257,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 312,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 281,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 234,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 226
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 762,
+                        "errorMessage": "Cannot access value for name checkInOutModel",
+                        "functionName": "model",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 281,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 233
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 209,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "color",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 199,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 238
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 43,
+                        "durationMicroseconds": 965,
+                        "errorMessage": "Cannot access value for name guestName",
+                        "functionName": "text",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 946,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 243
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 43,
+                        "durationMicroseconds": 667,
+                        "errorMessage": "Cannot access value for name room",
+                        "functionName": "text",
+                        "line": 249
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 958,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 250
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 43,
+                        "durationMicroseconds": 790,
+                        "errorMessage": "Cannot access value for name action",
+                        "functionName": "text",
+                        "line": 256
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 1008,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 257
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 43,
+                        "durationMicroseconds": 971,
+                        "errorMessage": "Cannot access value for name timestamp",
+                        "functionName": "text",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 1137,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 264
+                    }
+                ],
+                "filePath": "/home/hosam/Desktop/programming/c++/qt/HotelManagementSystem/ui/checkInAndOutScreen/CheckInAndOut.qml"
+            }
+        ],
+        "moduleId": "HotelManagementSystem(appHotelManagementSystem)"
+    }
+]
